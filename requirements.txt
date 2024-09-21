@@ -1,0 +1,8 @@
+streamlit
+PyMuPDF
+Pillow
+pydub
+moviepy
+azure-cognitiveservices-speech
+openai
+requests
